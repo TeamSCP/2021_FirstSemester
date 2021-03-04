@@ -2,7 +2,7 @@
 
 ### :file_folder: Folder format
 
-  - MM _DD
+  - MM_DD
  
 
 ### :white_check_mark: File format
