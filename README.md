@@ -7,7 +7,7 @@
 
 ### :white_check_mark: File format
 
-- Grade_Name_Title.md, Grade_Name_Title.pdf
+- Grade_Name_Title.pdf
 
   - ex) 2_이다영_abcde.pdf
  
