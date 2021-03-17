@@ -1,23 +1,23 @@
-# :ledger: TeamSCP Document
+- # TeamSCP Document
 
-### :file_folder: Folder format
 
-  - MM_DD
+  ### 📁Folder format
+
+  - [개인 스터디]
+      - MM_DD
+  ### ✅ File format
+
+  ### - 📕개인 프로젝트
+   - Grade_Name_Title.pdf 
+
+  ### 📕 개인 발표 A팀
+  - 3_유재겸
+  - 3_이유경
+  - 2_김평안
+  - 2_김건희
  
-
-### :white_check_mark: File format
-
-- Grade_Name_Title.pdf
-
-  - ex) 2_이다영_abcde.pdf
- 
-### :pushpin: List
-- 3_김우종
-- 3_유재겸
-- 3_서민재
-- 3_이유경
-- 3_장혜선
-- 2_김건희
-- 2_김수현
-- 2_김평안
-- 2_이다영
+  ### 📙개인 발표 B팀
+  - 3_서민재
+  - 3_장혜선
+  - 2_김수현
+  - 2_이다영
